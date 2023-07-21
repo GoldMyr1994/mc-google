@@ -4,7 +4,7 @@
   "authors": "GoldMyr1994 <mauroconte.1994@gmail.com>",
   "version": "1.0.0",
   "license": "MIT",
-  "private": true,
+  "private": false,
   "repository": {
     "directory": "GoldMyr1994/mc-google",
     "type": "git",
