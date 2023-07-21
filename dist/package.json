@@ -1,0 +1,27 @@
+{
+  "name": "@mc/utils",
+  "version": "0.0.1",
+  "description": "mauro conte library for interacting with google maps",
+  "main": "lib/es5/index.js",
+  "module": "lib/es6/index.js",
+  "sideEffects": false,
+  "repository": {
+    "directory": "GoldMyr1994/mc-google",
+    "type": "git",
+    "url": "git@github.com:GoldMyr1994/mc-google.git"
+  },
+  "files": [
+    "lib",
+    "CHANGELOG.md",
+    "LICENSE",
+    "package.json",
+    "README.md"
+  ],
+  "keywords": [
+    "javascript",
+    "utils",
+    "utilities"
+  ],
+  "authors": "GoldMyr1994 <mauroconte.1994@gmail.com>",
+  "license": "MIT"
+}

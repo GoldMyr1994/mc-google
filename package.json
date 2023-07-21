@@ -1,0 +1,20 @@
+{
+  "name": "mc-google",
+  "description": "mauro conte library for interacting with google maps",
+  "authors": "GoldMyr1994 <mauroconte.1994@gmail.com>",
+  "version": "1.0.0",
+  "license": "MIT",
+  "private": true,
+  "repository": {
+    "directory": "GoldMyr1994/mc-google",
+    "type": "git",
+    "url": "git@github.com:GoldMyr1994/mc-google.git"
+  },
+  "scripts": {
+    "compile": "rm -rf dist/lib && tsc && tsc --build tsconfig.es5.json"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^5.1.6"
+  }
+}
